@@ -1,0 +1,21 @@
+{
+  "name": "12.05-node",
+  "version": "1.0.0",
+  "description": "just a demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "keywords": [
+    "npm",
+    "demo"
+  ],
+  "author": "vera",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "swiper": "^4.4.2"
+  }
+}
